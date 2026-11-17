@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "marketing-skills-for-rakazo",
+  "version": "1.0.0",
+  "description": "Marketing Skills for Rakazo — a Rakazo-only plugin for zero-ad-spend organic marketing and automation: brand and audience, content strategy, hooks and scripts, YouTube, Instagram, Facebook, LinkedIn, X, Threads, Pinterest, WhatsApp, Gmail newsletters, SEO and AI search, Google Business Profile, community, collaborations, scheduling, auto-engagement, analytics and daily hands-free routines.",
+  "license": "MIT",
+  "keywords": [
+    "rakazo",
+    "marketing",
+    "organic-marketing",
+    "social-media",
+    "content-marketing",
+    "youtube",
+    "instagram",
+    "facebook",
+    "email-marketing",
+    "seo",
+    "automation"
+  ]
+}
